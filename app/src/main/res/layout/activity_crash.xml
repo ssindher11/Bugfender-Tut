@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.CrashActivity"
+    android:paddingHorizontal="24dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_crash_method"
+        android:layout_marginTop="32dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnCrash1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:textSize="16sp"
+        android:text="@string/_1_0"
+        android:textAllCaps="false" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnCrash2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:textSize="16sp"
+        android:text="@string/null_pointer_exception"
+        android:textAllCaps="false" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnCrash3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:textSize="16sp"
+        android:text="@string/invalid_view_access"
+        android:textAllCaps="false" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnCrash4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:textSize="16sp"
+        android:text="@string/list_access_out_of_bounds_element"
+        android:textAllCaps="false" />
+
+</LinearLayout>

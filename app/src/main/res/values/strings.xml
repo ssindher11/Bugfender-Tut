@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Bugfender Tut</string>
+    <string name="welcome">Welcome to the Quiz App</string>
+    <string name="name">Name</string>
+    <string name="start_quiz">Start Quiz!</string>
+    <string name="login_id">Login ID:</string>
+    <string name="generate_new_login_id">Generate New Login ID</string>
+    <string name="crash_the_app">Crash the App 😜</string>
+    <string name="_1_0">1 / 0</string>
+    <string name="invalid_view_access">Invalid View Access</string>
+    <string name="choose_crash_method">Choose Crash Method</string>
+    <string name="list_access_out_of_bounds_element">List: Access out of bounds element</string>
+    <string name="null_pointer_exception">Null Pointer Exception</string>
+    <string name="q1_how_many_legs_does_an_octopus_have"><font color="#FFBB86FC">Q1. </font>How many legs does an octopus have?</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="q2_which_of_these_are_mammals"><font color="#FFBB86FC">Q2. </font>Which of these are mammals?</string>
+    <string name="bat">Bat</string>
+    <string name="shark">Shark</string>
+    <string name="eagle">Eagle</string>
+    <string name="dolphin">Dolphin</string>
+    <string name="q3_which_of_these_languages_cannot_be_used_to_develop_android_apps"><font color="#FFBB86FC">Q3. </font>Which of these languages cannot be used to develop Android apps?</string>
+    <string name="answer">Answer</string>
+    <string name="q4_which_of_the_following_operating_systems_is_produced_by_ibm"><font color="#FFBB86FC">Q4. </font>Which of the following operating systems is produced by IBM?</string>
+    <string name="os_2">OS - 2</string>
+    <string name="windows">Windows</string>
+    <string name="linux">Linux</string>
+    <string name="dos">DOS</string>
+    <string name="q5_pa_is_the_unit_for"><font color="#FFBB86FC">Q5. </font>Pa is the unit for</string>
+    <string name="conductivity">Conductivity</string>
+    <string name="frequency">Frequency</string>
+    <string name="thrust">Thrust</string>
+    <string name="pressure">Pressure</string>
+    <string name="submit">Submit</string>
+    <string name="begin_quiz">Begin Quiz</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="xamarin">Xamarin</string>
+    <string name="dart">Dart</string>
+    <string name="go">Go</string>
+</resources>
